@@ -1,0 +1,4 @@
+C:\GitHub\Programeringuppgift5del2\obj\Debug\net9.0\Programeringuppgift5del2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Programeringuppgift5del2\obj\Debug\net9.0\Programeringuppgift5del2.AssemblyInfoInputs.cache
+C:\GitHub\Programeringuppgift5del2\obj\Debug\net9.0\Programeringuppgift5del2.AssemblyInfo.cs
+C:\GitHub\Programeringuppgift5del2\obj\Debug\net9.0\Programeringuppgift5del2.csproj.CoreCompileInputs.cache
