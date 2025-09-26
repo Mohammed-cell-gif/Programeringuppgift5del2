@@ -2,3 +2,14 @@ C:\GitHub\Programeringuppgift5del2\obj\Debug\net9.0\Programeringuppgift5del2.Gen
 C:\GitHub\Programeringuppgift5del2\obj\Debug\net9.0\Programeringuppgift5del2.AssemblyInfoInputs.cache
 C:\GitHub\Programeringuppgift5del2\obj\Debug\net9.0\Programeringuppgift5del2.AssemblyInfo.cs
 C:\GitHub\Programeringuppgift5del2\obj\Debug\net9.0\Programeringuppgift5del2.csproj.CoreCompileInputs.cache
+C:\GitHub\Programeringuppgift5del2\bin\Debug\net9.0\Programeringuppgift5del2.exe
+C:\GitHub\Programeringuppgift5del2\bin\Debug\net9.0\Programeringuppgift5del2.deps.json
+C:\GitHub\Programeringuppgift5del2\bin\Debug\net9.0\Programeringuppgift5del2.runtimeconfig.json
+C:\GitHub\Programeringuppgift5del2\bin\Debug\net9.0\Programeringuppgift5del2.dll
+C:\GitHub\Programeringuppgift5del2\bin\Debug\net9.0\Programeringuppgift5del2.pdb
+C:\GitHub\Programeringuppgift5del2\obj\Debug\net9.0\Programeringuppgift5del2.sourcelink.json
+C:\GitHub\Programeringuppgift5del2\obj\Debug\net9.0\Programeringuppgift5del2.dll
+C:\GitHub\Programeringuppgift5del2\obj\Debug\net9.0\refint\Programeringuppgift5del2.dll
+C:\GitHub\Programeringuppgift5del2\obj\Debug\net9.0\Programeringuppgift5del2.pdb
+C:\GitHub\Programeringuppgift5del2\obj\Debug\net9.0\Programeringuppgift5del2.genruntimeconfig.cache
+C:\GitHub\Programeringuppgift5del2\obj\Debug\net9.0\ref\Programeringuppgift5del2.dll
